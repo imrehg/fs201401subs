@@ -1,6 +1,6 @@
 1
 00:00:30,423 --> 00:00:31,557
-Good morning. 
+Good morning.
 早安
 
 2
@@ -14,243 +14,331 @@ Hey!
 喂!
 
 4
-00:01:06,019 --> 00:01:09,029
-Woops, sorry! I didn't see you down there.
-喔! 不好意思! 我沒看到你在下面
+00:01:06,019 --> 00:01:07,110
+Woops, sorry!
+喔! 不好意思!
 
 5
-00:01:10,028 --> 00:01:15,569
-Oh. Heh!, eh... no problem. I should really
-watch where I'm going.
-喔...(乾笑)! 嗯....沒關係 我走路也應該注意
+00:01:07,210 --> 00:01:09,028
+I didn't see you down there.
+我沒看到你在下面
 
 6
-00:01:16,021 --> 00:01:20,097
-What are you doing down there anyway? Everyone's heading
-South in a few hours.
-你還在下面幹嘛? 幾個小時後 大家都要飛往南方了
+00:01:10,028 --> 00:01:12,778
+Oh. Heh!, eh... no problem.
+喔...(乾笑)! 嗯....沒關係
 
 7
-00:01:22,053 --> 00:01:28,035
-Oh, I... I... eh, I dropped something. Yeah, you guys go on
-ahead, eh I'll follow you on.
-喔, 我...我... 我有東西掉了 你們先走 我隨後跟上
+00:01:12,878 --> 00:01:15,568
+I should really watch where I'm going.
+我走路也應該注意
 
 8
+00:01:16,021 --> 00:01:17,787
+What are you doing down there anyway?
+你還在下面幹嘛?
+
+9
+00:01:17,887 --> 00:01:20,096
+Everyone's heading South in a few hours.
+幾個小時後 大家都要飛往南方了
+
+10
+00:01:22,053 --> 00:01:24,917
+Oh, I... I... eh, I dropped something.
+喔, 我...我... 我有東西掉了
+
+11
+00:01:25,017 --> 00:01:28,034
+Yeah, you guys go on ahead, eh I'll follow you on.
+你們先走 我隨後跟上
+
+12
 00:01:29,022 --> 00:01:30,592
 Eh... who's this guy?
 那是誰啊?
 
-9
+13
 00:01:31,092 --> 00:01:32,650
 I never got your name?
 我還不知道你的名字呢?
 
-10
+14
 00:01:33,150 --> 00:01:34,842
 It's Dougal.
 我叫杜格
 
-11
-00:01:35,271 --> 00:01:38,982
-Hi Dougal, my name's Lucy. This is Dick.
-嗨 杜格, 我叫露西。這位是迪克
+15
+00:01:35,271 --> 00:01:37,739
+Hi Dougal, my name's Lucy.
+嗨 杜格, 我叫露西。
 
-12
+16
+00:01:37,839 --> 00:01:38,981
+This is Dick.
+這位是迪克
+
+17
 00:01:40,028 --> 00:01:41,127
 Hi Dick.
 嗨 迪克
 
-13
+18
 00:01:42,601 --> 00:01:44,901
 Come on Lucy, let's get the flock outta here.
 走吧 露西, 我們趕緊離開這兒吧
 
-14
-00:01:46,007 --> 00:01:48,973
-Nice to meet you Dougal, I guess I'll see you down there!
-很高興認識你 杜格, 那就到時候見囉!
+19
+00:01:46,007 --> 00:01:47,301
+Nice to meet you Dougal,
+很高興認識你 杜格,
 
-15
+20
+00:01:47,401 --> 00:01:48,972
+I guess I'll see you down there!
+那就到時候見囉!
+
+21
 00:02:02,989 --> 00:02:04,299
 Good Morning.
 早安
 
-16
-00:02:05,927 --> 00:02:11,002
-Can I have ten packs of beetle husks, five tins of hazel nut
-butter, eight packs of dried elderberries,
-我要10包甲蟲殼, 5罐榛果奶油, 8包接骨木乾
+22
+00:02:05,927 --> 00:02:07,785
+Can I have ten packs of beetle husks,
+我要10包甲蟲殼,
 
-17
-00:02:11,039 --> 00:02:17,007
-one pot of honey,a half case of nettle tea, two doz... ten
-packs of fresh poppyseed,
-1壺蜂蜜, 半盒蕁麻茶, 兩打...10包新鮮的罌粟籽
+23
+00:02:07,885 --> 00:02:09,327
+five tins of hazel nut butter,
+5罐榛果奶油,
 
-18
-00:02:17,032 --> 00:02:19,032
-two tins of rose-hip syrup and a
-box of fennel mash.
-2罐玫瑰果糖漿 還有1盒茴香末
+24
+00:02:09,427 --> 00:02:11,001
+eight packs of dried elderberries,
+8包接骨木乾
 
-19
+25
+00:02:11,039 --> 00:02:12,225
+one pot of honey,
+1壺蜂蜜,
+
+26
+00:02:12,325 --> 00:02:14,053
+a half case of nettle tea,
+半盒蕁麻茶,
+
+27
+00:02:14,153 --> 00:02:17,006
+two doz... ten packs of fresh poppyseed,
+兩打...10包新鮮的罌粟籽
+
+28
+00:02:17,032 --> 00:02:18,026
+two tins of rose-hip syrup
+2罐玫瑰果糖漿
+
+29
+00:02:18,126 --> 00:02:19,031
+and a box of fennel mash.
+還有1盒茴香末
+
+30
 00:02:20,019 --> 00:02:22,019
 Oh, and how much for that plant?
 喔, 還有 那個盆栽多少錢?
 
-20
+31
 00:02:37,959 --> 00:02:39,959
 Now, where to put you?
 現在, 應該要把你擺在哪呢?
 
-21
+32
 00:02:47,003 --> 00:02:48,082
 Perfect.
 很好
 
-22
+33
 00:02:53,000 --> 00:02:54,011
 We'll be fine.
 我們會很好的
 
-23
-00:03:29,999 --> 00:03:33,096
-Plenty more rain on the way, with showers due to continue
-right through to the end of...
-即將會有更多雨水, 及連續陣雨直到...
+34
+00:03:29,999 --> 00:03:31,048
+Plenty more rain on the way,
+即將會有更多雨水,
 
-24
+35
+00:03:31,148 --> 00:03:33,095
+with showers due to continue right through to the end of...
+及連續陣雨直到...
+
+36
 00:03:33,988 --> 00:03:36,360
 I don't care about the accident I s...
 我不管那個意外, 我...
 
-25
-00:03:36,860 --> 00:03:39,208
-And if you do continue to eat these worms combined of course
-with regular...
-如果你持續食用那些綜合昆蟲 當然是以一般...
+37
+00:03:36,860 --> 00:03:38,127
+And if you do continue to eat these worms
+如果你持續食用那些綜合昆蟲
 
-26
-00:03:40,908 --> 00:03:44,023
-We are down here in the Sunny South and just check out some
-of these chicks!
-我們現在位於陽光南方, 先來看看這些美眉吧!
+38
+00:03:38,227 --> 00:03:39,207
+combined of course with regular...
+當然是以一般...
 
-27
+39
+00:03:40,908 --> 00:03:42,367
+We are down here in the Sunny South
+我們現在位於陽光南方,
+
+40
+00:03:42,467 --> 00:03:44,022
+and just check out some of these chicks!
+先來看看這些美眉吧!
+
+41
 00:03:47,017 --> 00:03:47,915
 Lucy?
 露西?
 
-28
+42
 00:05:01,018 --> 00:05:02,483
 There's nothing left.
 沒有剩下任何東西
 
-29
-00:05:10,061 --> 00:05:14,761
-I've gotta get out of here. But how? I can't fly. Of Course
-you can fly- you're a bird.
-我一定要離開這。可是怎麼走? 我不能飛。
+43
+00:05:10,061 --> 00:05:11,416
+I've gotta get out of here.
+我一定要離開這。
+
+44
+00:05:11,516 --> 00:05:12,700
+But how? I can't fly.
+可是怎麼走?我不能飛。
+
+45
+00:05:12,800 --> 00:05:14,757
+Of Course you can fly- you're a bird.
 你當然能飛, 你是隻鳥耶
 
-30
+46
 00:05:14,820 --> 00:05:16,427
 If I stay I'll freeze to death.Or starve!
 如果我留下來 我會被凍死或餓死!
 
-31
-00:05:16,427 --> 00:05:18,817
-I shouldn't even be here. I should be down south with the others.
-我根本不應該在這。我應該跟大夥一起在南方
+47
+00:05:16,427 --> 00:05:17,344
+I shouldn't even be here.
+我根本不應該在這。
 
-32
-00:05:18,817 --> 00:05:21,757
-I could be on the beach with Lucy. You
-don't want to end up like him!
-我可以跟露西一起在海灘。你不想最後變得跟它一樣!
+48
+00:05:17,444 --> 00:05:18,816
+I should be down south with the others.
+我應該跟大夥一起在南方
 
-33
+49
+00:05:18,817 --> 00:05:20,237
+I could be on the beach with Lucy.
+我可以跟露西一起在海灘。
+
+50
+00:05:20,337 --> 00:05:21,757
+You don't want to end up like him!
+你不想最後變得跟它一樣!
+
+51
 00:05:23,007 --> 00:05:24,677
 I've gotta do it.
 我必須要這麼做
 
-34
+52
 00:05:29,984 --> 00:05:30,977
 This is it.
 走吧
 
-35
+53
 00:07:11,014 --> 00:07:15,999
 Ha! I did it, I'm flying, I'm really flying!
 哈! 我做到了, 我在飛, 我真的在飛!
 
-36
+54
 00:07:29,017 --> 00:07:31,017
 Welcome to the sunny south!
 歡迎來到陽光南方!
 
-37
+55
 00:07:37,016 --> 00:07:39,016
 Hey, Dougal, great to see you!
 嗨, 杜格! 很高興看到你!
 
-38
+56
 00:07:40,003 --> 00:07:43,003
 Lucy, this place, it's amazing!
 露西, 這裡好棒喔!
 
-39
-00:07:43,836 --> 00:07:46,226
-Yeah, Dick and I were wondering if you were gonna make it.
-是啊, 迪克跟我還在想你會不會來
+57
+00:07:43,836 --> 00:07:45,142
+Yeah, Dick and I were wondering
+是啊, 迪克跟我還在想
 
-40
+58
+00:07:45,242 --> 00:07:46,225
+ if you were gonna make it.
+你會不會來
+
+59
 00:07:48,273 --> 00:07:50,980
 Oh yeah, Dick.
 喔對, 迪克
 
-41
+60
 00:07:50,992 --> 00:07:52,992
 Hey Dick, look who it is.
 迪克, 看看誰來了
 
-42
+61
 00:07:53,492 --> 00:07:55,107
 Hey Dougal!
 嗨 杜格!
 
-43
+62
 00:07:57,836 --> 00:08:01,018
 Oh. Hey Dick. So you guys aren't...
 喔, 嗨 迪克 所以你們不是....
 
-44
+63
 00:08:01,518 --> 00:08:02,533
 Noooo!
 不是!
 
-45
+64
 00:08:02,962 --> 00:08:03,743
 Ahhhh.
 啊....
 
-46
-00:08:05,039 --> 00:08:08,921
-Dougal, now that you're here, I wanted to ask you something.
-杜格, 現在你在這, 我想問你一件事情
+65
+00:08:05,039 --> 00:08:06,979
+Dougal, now that you're here,
+杜格, 現在你在這,
 
-47
+66
+00:08:07,079 --> 00:08:08,920
+I wanted to ask you something.
+我想問你一件事情
+
+67
 00:08:09,908 --> 00:08:10,936
 Yeah Lucy?
 什麼事 露西?
 
-48
+68
 00:08:11,994 --> 00:08:13,994
 Do you... wanna go for a swim?
 你想.......去游泳嗎?
 
-49
+69
 00:08:17,000 --> 00:08:21,615
 Swim? Hu! Eh, OK!
 游泳? 喔! 嗯..好啊!
